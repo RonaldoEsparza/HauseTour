@@ -1,0 +1,6 @@
+package com.example.hausetour
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
